@@ -1,4 +1,5 @@
-"# Social-Media-Startup-Analysis-Excel" 
+## Social-Media-Startup-Analysis-Excel 
+
 This project was from Accenture North America's Data Analytics and Visualization job simulation on Forage.com (Excel)
 In the project, I:
 
